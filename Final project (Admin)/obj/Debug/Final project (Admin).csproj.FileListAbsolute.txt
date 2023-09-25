@@ -1,0 +1,30 @@
+G:\C#\Final project (Admin)\bin\Debug\Final project (Admin).exe.config
+G:\C#\Final project (Admin)\bin\Debug\Final project (Admin).exe
+G:\C#\Final project (Admin)\bin\Debug\Final project (Admin).pdb
+G:\C#\Final project (Admin)\obj\Debug\Final project (Admin).csproj.AssemblyReference.cache
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.Dashboard.resources
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.Form1.resources
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.Properties.Resources.resources
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.sevantdetails.resources
+G:\C#\Final project (Admin)\obj\Debug\Final project (Admin).csproj.GenerateResource.cache
+G:\C#\Final project (Admin)\obj\Debug\Final project (Admin).csproj.CoreCompileInputs.cache
+G:\C#\Final project (Admin)\obj\Debug\Final project (Admin).exe
+G:\C#\Final project (Admin)\obj\Debug\Final project (Admin).pdb
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.Clientdetails.resources
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.Showlist.resources
+G:\C#\Final project (Admin)\obj\Debug\Final_project__Admin_.Searchservant.resources
+C:\Users\User\Downloads\Final project (Admin)\bin\Debug\Final project (Admin).exe.config
+C:\Users\User\Downloads\Final project (Admin)\bin\Debug\Final project (Admin).exe
+C:\Users\User\Downloads\Final project (Admin)\bin\Debug\Final project (Admin).pdb
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final project (Admin).csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.Form1.resources
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.Properties.Resources.resources
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final project (Admin).csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final project (Admin).csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final project (Admin).exe
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final project (Admin).pdb
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.form2.resources
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.Form3.resources
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.Form4.resources
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.Form5.resources
+C:\Users\User\Downloads\Final project (Admin)\obj\Debug\Final_project__Admin_.Gif_animation.resources
